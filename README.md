@@ -36,7 +36,7 @@ pip install torch pandas matplotlib scikit-learn
 Once the model is trained, you can use it to predict salaries based on new position levels. You can further improve the model by experimenting with additional features, more complex neural network architectures, or other machine learning models.
 
 ## Read the Full Blog
-If you are looking for a detailed explanation, please refer to this blog: [How to Build an AI Chatbot from Scratch](https://www.projectpro.io/article/how-to-build-an-ai-chatbot-from-scratch/1078).
+If you are looking for a detailed explanation, please refer to this blog: [How to Build an AI Model from Scratch](https://www.projectpro.io/article/how-to-build-an-ai-model-from-scratch/1074).
 
 ## Next Steps
 - Try adding more data to see how the model performs with a larger dataset.
